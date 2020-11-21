@@ -1,0 +1,19 @@
+{
+  "name": "currency-server",
+  "version": "1.0.0",
+  "description": "An open source server for implementing your own currency",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumukshashidhar/currency-server.git"
+  },
+  "author": "Sumuk Shashidhar",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/sumukshashidhar/currency-server/issues"
+  },
+  "homepage": "https://github.com/sumukshashidhar/currency-server#readme"
+}
